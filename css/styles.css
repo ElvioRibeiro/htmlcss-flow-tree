@@ -113,15 +113,15 @@ h1 {
   border: 1px solid #ccf;
   text-decoration: none;
   text-transform: uppercase;
-  color: #fff;
+  color: #ccf;
   font-family: arial, verdana, tahoma;
   font-size: 11px;
 }
 
 .tree li a:hover,
-.nav li a:hover + ul li a {
+.tree li a:hover + ul li a {
   color: #000;
-  background: #9ed7ff;
+  background: #ffc9b9;
   border: 1px solid #ff3c00;
 }
 
